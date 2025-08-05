@@ -1,4 +1,4 @@
-# Smart Stock Insight System
+# Smart Stock Insight System - Linear Regression
 
 A lightweight, interactive dashboard for stock price prediction and investment insight generation using a combination of historical data, moving averages, and linear regression. Built with Python and Streamlit, this system is designed to assist users in analyzing stock trends, especially in the absence of live data by falling back on mock datasets.
 
