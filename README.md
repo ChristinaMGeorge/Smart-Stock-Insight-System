@@ -19,10 +19,10 @@ The stock market is inherently volatile and influenced by a range of unpredictab
 
 | Folder / File         | Description                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
-| `code/`               | Contains `test.py`, the main Streamlit application script                   |
-| `mock_data/`          | Fallback CSV datasets for various stock tickers (e.g., AAPL, TSLA, AMZN)    |
-| `screenshots/`        | UI output screenshots of the dashboard and predictions                      |
-| `report/`             | Final project report PDF (if included)                                      |
+| `code`                | Contains `test.py`, the main Streamlit application script                   |
+| `mock_data`           | Fallback CSV datasets for various stock tickers (e.g., AAPL, TSLA, AMZN)    |
+| `output screenshots/` | UI output screenshots of the dashboard and predictions                      |
+| `report`              | Final project report PDF                                                    |
 | `README.md`           | This file – complete project documentation                                  |
 
 ---
